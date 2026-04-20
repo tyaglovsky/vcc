@@ -49,3 +49,9 @@ npm run deploy   # deploy to Cloudflare Workers
 - [Cloudflare Workers](https://workers.cloudflare.com) — serverless edge runtime
 - [Wrangler](https://developers.cloudflare.com/workers/wrangler/) — CLI for deployment
 - Vanilla JS + CSS — zero dependencies on the frontend
+  
+## Note
+
+331, 415 ... - Link you Threads
+333, 417 ... - Name Threads
+
